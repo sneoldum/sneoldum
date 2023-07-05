@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sneoldum/count.svg?"  />

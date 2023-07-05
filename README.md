@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+ <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sneoldum/count.svg?"  />
@@ -25,7 +25,7 @@
 <div >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneoldum&show_icons=true&locale=en&layout=compact" alt="sneoldum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneoldum&show_icons=true&cache_seconds=1800&locale=en" alt="sneoldum" /></p>
+<p style ="display: block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneoldum&show_icons=true&cache_seconds=1800&locale=en" alt="sneoldum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneoldum&" alt="sneoldum" /></p>
     

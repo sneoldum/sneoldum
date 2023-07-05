@@ -1,6 +1,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneoldum&label=Profile%20views&color=ff0000&style=plastic" alt="sneoldum" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sneoldum/count.svg?"  />
+</div>
 
 - 👨‍💻 All of my projects are available at [sneoldum.github.io](sneoldum.github.io)
 

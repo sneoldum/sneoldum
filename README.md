@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/sneoldum/count.svg?"  />
 </div>
 
-- 👨‍💻 All of my projects are available at [sneoldum.github.io](sneoldum.github.io)
+- 👨‍💻 All of my projects are available at [sneoldum.github.io](https://sneoldum.github.io)
 
 - 💬 Ask me about **.NET, HTML**
 
